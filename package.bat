@@ -1,0 +1,3 @@
+@echo off
+
+echo Packaging android...
